@@ -215,7 +215,7 @@ function desc() {
 		scrollTrigger: {
 			trigger: '#fishessection',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top -50',
 			end: 'top -100%',
 			scrub: 1,
@@ -490,7 +490,7 @@ function macDesc() {
 		scrollTrigger: {
 			trigger: '#fishessection',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top -50',
 			end: 'top -100%',
 			scrub: 1,
@@ -561,7 +561,7 @@ function smallmbl() {
 		scrollTrigger: {
 			trigger: '#main',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top 0',
 			end: 'top -400%',
 			scrub: 2,
@@ -795,7 +795,7 @@ function mbl1() {
 		scrollTrigger: {
 			trigger: '#main',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top 0',
 			end: 'top -400%',
 			scrub: 2,
@@ -1032,7 +1032,7 @@ function Tab1() {
 		scrollTrigger: {
 			trigger: '#main',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top 0',
 			end: 'top -400%',
 			scrub: 2,
@@ -1472,7 +1472,7 @@ function TabLandScape() {
 		scrollTrigger: {
 			trigger: '#fishessection',
 			scroller: 'body',
-			markers: true,
+			// markers: true,
 			start: 'top -50',
 			end: 'top -100%',
 			scrub: 1,
